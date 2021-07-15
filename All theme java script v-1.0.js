@@ -5,5 +5,5 @@
 function toggle(d){var c=document.getElementById(&quot;cont&quot;);&quot;block&quot;==c.style.display?(c.style.display=&quot;none&quot;,document.getElementById(d.id).value=&quot;Show DIV&quot;):(c.style.display=&quot;block&quot;,document.getElementById(d.id).value=&quot;Hide&quot;)}function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:&quot;&quot;},&quot;google_translate_element&quot;)}
 
 /*popller ads*/
-&lt;script async=&#39;async&#39; defer=&#39;defer&#39;&gt;
+
 document.write(&#39;&lt;script src=&quot;https://res.cloudinary.com/harshit-jaiswal/raw/upload/v1625720821/code.min_1_lp82et.js;u=&#39; + encodeURIComponent(document.location.href) + &#39;&quot;&gt;&lt;/scr&#39; + &#39;ipt&gt;&#39;);
